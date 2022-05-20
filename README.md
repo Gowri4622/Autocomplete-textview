@@ -21,11 +21,13 @@ Step 6: Display screen of search engine in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+```
 /*
 Program to print the text “display screen of any search engine”.
 Developed by: Gowri M
 Registeration Number : 212220230019
 */
+```
 
 ### MainActivity.java
 ```java
@@ -109,5 +111,13 @@ tools:context=".MainActivity">
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT
+![WhatsApp Image 2022-05-20 at 11 21 13 AM](https://user-images.githubusercontent.com/75235455/169488909-3328017a-4a7e-4bfc-8c65-b2999ce3d2c1.jpeg)
+![WhatsApp Image 2022-05-20 at 11 21 13 AM (2)](https://user-images.githubusercontent.com/75235455/169488983-9f59ae98-9b9b-4402-9a3d-1415f049e9b7.jpeg)
+![WhatsApp Image 2022-05-20 at 11 21 13 AM (3)](https://user-images.githubusercontent.com/75235455/169488999-47acd0f6-60dd-4166-a644-821125f08d6c.jpeg)
+
+
+
+
+
 ## RESULT
 Thus a Simple Android Application develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio is developed and executed successfully.
